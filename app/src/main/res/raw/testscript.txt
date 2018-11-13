@@ -1,0 +1,9 @@
+001001A001
+|L||N|앙 기모띠 앙 기모띠 앙 기모띠 앙 기모띠 앙 기모띠|R| 앙 기모띠 앙 기모띠 앙 기모띠 앙 기모띠 |C|앙 기모띠 앙 기모띠 앙 기모띠 앙 기모띠 앙 기모띠
+001001A002
+|L||H|>>>>에헤헤헤헤헤헤헤헤헤헤헤헤헤헤헤헤헤헤헤헤헤헤헤헤헤헤헤헤헤헤헤헤헤<<<<|R|헤헤헤헤헤헤헤헤헤헤헤헤헤헤헤헤헤헤헤헤헤헤헤헤헤헤헤헤>>>> |C|헤헤헤헤헤헤헤헤헤헤헤헤헤헤헤
+001001A003
+|C||A|견찬서 가고싶어 이새끼야!! 어!! 이셰끼가 진짜! 견찬서가고싶어! 어! 아이디 QMQPRDI 빨리안꺼 어! 이새끼 한두번이아니야 어 진짜 견찬서 가고싶어 이새끼야! 어!
+001001A004
+|L||A|Lorem |H|ipsum |A|dolor |H|sit |A|amet, |H|consectetur |A|adipiscing |H|elit,|R| |A|sed |H|do |A|eiusmod |H|tempor |A|incididunt |C|ut |A|labore |H|et |A|dolore |H|magna |A|aliqua. |H|Ut |A|enim |H|ad |A|minim |H|veniam
+*END*
